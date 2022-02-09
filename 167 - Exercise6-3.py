@@ -1,11 +1,12 @@
-# ''' Make a program with a Customer list, each one has Name, lastName and DNI.
-# Menu
-# 1. Add new Customer
-# 2. Show all Customers
-# 3. Show Customer by DNI
-# 4. Erase Customer
-# 5. Exit
-# '''
+
+''' Make a program with a Customer list, each one has Name, lastName and DNI.
+Menu
+1. Add new Customer
+2. Show all Customers
+3. Show Customer by DNI
+4. Erase Customer
+5. Exit
+'''
 
 
 customers = []
